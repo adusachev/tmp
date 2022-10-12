@@ -17,7 +17,7 @@ struct DoublyLinkedList {
 	int size_ = 0;
 
 	/**
-	* Вставка в начало списка
+	* Р’СЃС‚Р°РІРєР° РІ РЅР°С‡Р°Р»Рѕ СЃРїРёСЃРєР°
 	**/
 	void push_front(const int value);
 };
